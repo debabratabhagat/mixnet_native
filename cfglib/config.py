@@ -16,7 +16,7 @@ config.resume = False
 config.onlybackbone = False
 config.mid = False
 config.pos = False
-config.device = "cpu"
+config.device = "cuda"
 config.test_size = [500, 1500]
 # -----------------------------------------------------------------------
 
