@@ -69,7 +69,7 @@ config.grad_clip = 25
 # demo tcl threshold
 config.dis_threshold = 0.3
 
-config.cls_threshold = 0.8
+config.cls_threshold = 0.5
 
 # Contour approximation factor
 config.approx_factor = 0.004
